@@ -1,30 +1,30 @@
 # FB_CSV
 
-Exporta / Importa arquivos CSV com o banco de dados Firebird
+Export / Import text files with Firebird database
 <br/>
 <br/>
-### 📋 Sistema Operacional
+### 📋 Operating System
 
-*  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/)
-
-
-### :warning: Atenção!
-* $${\color{red}\textbf{Antes\ de\ testar\ :\ faça\ o\ backup\ do\ banco\ de\ dados.}}$$ 
-* Este programa não exclui ou altera os registros do banco de dados, mas acrescenta novos registros importados a partir de um arquivo CSV.
+*  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
 
 
-### ⚙️ Executando os testes
-* Para testar o código deste projeto, basta fazer o download do arquivo executável, acessível a partir da pasta [Win32/Debug](https://github.com/laertemjr/FB_CSV_pt-BR/tree/main/Win32/Debug) deste repositório.
+### :warning: Warning!
+* $${\color{red}\textbf{Before\ testing\ :\ backup\ the\ database.}}$$ 
+* This program does not delete or change database records, but adds new records imported from a CSV file.
 
 
-### 🛠️ Construído com
-* [![Delphi](https://img.shields.io/badge/-Delphi-E62431?logo=delphi&logoColor=white&style=plastic)](https://www.embarcadero.com/br/products/delphi)
+### ⚙️ Running the tests
+* To test the code of this project, simply download the executable file, accessible from the folder [Win32/Debug](https://github.com/laertemjr/FB_CSV_en/tree/main/Win32/Debug) from this repository.
+
+
+### 🛠️ Built with
+* [![Delphi](https://img.shields.io/badge/-Delphi-E62431?logo=delphi&logoColor=white&style=plastic)](https://www.embarcadero.com/products/delphi)
 * [![Firebird](https://img.shields.io/badge/-Firebird-F25225?style=flat)](https://www.firebirdsql.org/)
 
 
-### 📌 Versão
-* 0.1 - 22/01/2025 
+### 📌 Version
+* 0.1 - 23/01/2025 
 
 
-### 📄 Licença
-* Este projeto está sob a licença *The Unlicense* - veja o arquivo [LICENSE.md](https://github.com/laertemjr/FB_CSV_pt-BR/blob/main/LICENSE.md) para detalhes.
+### 📄 License
+* This project is licensed under *The Unlicense* - see the file [LICENSE.md](https://github.com/laertemjr/FB_CSV_en/blob/main/LICENSE.md) for details.
